@@ -1,0 +1,23 @@
+.heading
+{
+    width: 80%;
+    font-size: 25px;
+}
+
+body
+{
+    color: lime;
+    background: antiquewhite;
+}
+
+#camera
+{
+    width: 350px;
+    height: 300px;
+    border: 3px dashed black;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color: cyan;
+}
